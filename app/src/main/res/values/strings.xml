@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Lab2_Calculator</string>
+
+    <!-- touche de functions -->
+    <string name="btnAC">AC</string>
+    <string name="btnC">C</string>
+    <string name="btnBb1">(</string>
+    <string name="btnBb2">)</string>
+    <string name="btnDivide">/</string>
+    <string name="btnMultiple">*</string>
+    <string name="btnPlus">+</string>
+    <string name="btnMinus">-</string>
+    <string name="btnEqual">=</string>
+
+    <!-- chiffre -->
+    <integer name="btn9">9</integer>
+    <integer name="btn8">8</integer>
+    <integer name="btn7">7</integer>
+    <integer name="btn6">6</integer>
+    <integer name="btn5">5</integer>
+    <integer name="btn4">4</integer>
+    <integer name="btn3">3</integer>
+    <integer name="btn2">2</integer>
+    <integer name="btn1">1</integer>
+    <integer name="btn0">0</integer>
+    <string name="btnDot">.</string>
+
+    <!-- trigo -->
+    <string name="btnSin">sin</string>
+    <string name="btnCos">cos</string>
+    <string name="btnTan">tan</string>
+    <string name="btnLog">log</string>
+    <string name="btnLn">ln</string>
+
+    <string name="btnFact">x!</string>
+    <string name="btnSquare">x²</string>
+    <string name="btnSqrt">√</string>
+    <string name="btnOneByX">1/x</string>
+    <string name="btnPi">⨅</string>
+
+</resources>
